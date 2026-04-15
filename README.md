@@ -23,8 +23,6 @@ This project presents an interactive Sales Dashboard built using Power BI to ana
 
 ## 📊 Dashboard Preview
 <img width="670" height="377" alt="Screenshot 2026-04-15 222924" src="https://github.com/user-attachments/assets/e05254f1-4a6f-4450-bd97-afb3d75efafd" />
-<img width="1350" height="754" alt="Screenshot 2026-01-13 054247" src="https://github.com/user-attachments/assets/e33b6229-8627-46eb-81b6-e9226ea50616" />
-<img width="959" height="379" alt="Screenshot 2026-01-13 054320" src="https://github.com/user-attachments/assets/e66f2429-ff29-4307-a0cb-15d4d758412a" />
 
 
 ## 📁 Files Included
